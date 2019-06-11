@@ -47,3 +47,7 @@ La documentación del API para la implementación del servicio de Cloudinary, se
 ## ¿NuGets recomendados?
 
 Existen diferentes paquetes NuGet para la utilización del servicio de Cloudinary, siendo algunos de estos públicos creados por la comunidad. Sin embargo, el paquete NuGet recomendado, es el oficial creado por Cloudinary. El nombre de este es: “Cloudinary DotNet” Library. Se puede encontrar en el siguiente enlace: [CloudinaryDotNet](https://www.nuget.org/packages/CloudinaryDotNet/)
+
+## Video en YouTube
+
+https://youtu.be/EvWiGwJzQHE
